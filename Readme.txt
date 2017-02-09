@@ -1,12 +1,12 @@
-Za³o¿enia:
-- niezale¿noœæ od systemu ksiêgowego,
+Assumptions:
+- independence from account system,
 - MS SQL,
-- dzia³anie w tle,
-- powiadamianie e-mail.
+- operation in the background,
+- e-mail notification.
 
-Wymagania funkcjonalne:
-- edycja komunikatów,
-	- czcionka,
-	- rozmiar,
-	- itp.
-- konfiguracja czêstotliwoœci i rodzajów komunikatów.
+Functional requirements:
+- notification edit,
+	- font,
+	- size,
+	- etc.
+- configuration frequency and type of notifications
